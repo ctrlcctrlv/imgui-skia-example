@@ -1,5 +1,7 @@
 # Dear ImGui, Skia, and Rust, all playing nice together
 
+![](https://raw.githubusercontent.com/ctrlcctrlv/imgui-skia-example/master/screenshot.png)
+
 Much of the code here comes from the Reclutch project:
 
 https://github.com/jazzfool/reclutch/blob/master/reclutch/examples/opengl/main.rs
