@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/ctrlcctrlv/imgui-skia-example/master/screenshot.png)
 
+![Video](https://www.youtube.com/watch?v=-scModziLEA)
+
 Much of the code here comes from the Reclutch project:
 
 https://github.com/jazzfool/reclutch/blob/master/reclutch/examples/opengl/main.rs
