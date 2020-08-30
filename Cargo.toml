@@ -1,0 +1,16 @@
+[package]
+name = "imgui-skia-example"
+version = "0.0.0"
+authors = ["Fredrick Brennan <copypaste@kittens.ph", "jazzfool <saveuselon@gmail.com>"]
+edition = "2018"
+license = "MIT / Apache-2.0"
+description = "An example of combining Skia and IMGui in Rust"
+
+[dependencies]
+skia-safe = { version = "0.32.1", features = ["gl"] }
+imgui-glium-renderer = "0.4.0"
+imgui-winit-support = "0.4.0"
+imgui = "0.4.0"
+glium = "0.27.0"
+gl = "0.14.0"
+thiserror = "1.0.20"
