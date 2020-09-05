@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/ctrlcctrlv/imgui-skia-example/master/screenshot.png)
 
-[Video](https://www.youtube.com/watch?v=-scModziLEA)
+**Turns out it's probably better to use Skulpin. Cf. [aclysma/skulpin#62](https://github.com/aclysma/skulpin/issues/62), [mfeq/Qglif#2](https://github.com/mfeq/Qglif/issues/2) and [jazzfool/reclutch#26](https://github.com/jazzfool/reclutch/issues/26). This repo will remain intact, but archived, if you're too stubborn to use Vulkan. :-)**
 
 Much of the code here comes from the Reclutch project:
 
